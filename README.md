@@ -1,7 +1,7 @@
 Kinbank (Parabank & Varikin)
 ============================
 
-This repository contains the merged data from [Varikin](https://github.com/SamPassmore/kinbank) and [Parabank](https://github.com/parabank/parabank-kinship-data)
+This repository contains the kinship terminology data from the [Parabank](https://github.com/parabank/parabank-kinship-data) project. 
 
 
 To add a new language:
