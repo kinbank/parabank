@@ -1,4 +1,4 @@
-Kinbank (Parabank & Varikin)
+Parabank
 ============================
 
 This repository contains the kinship terminology data from the [Parabank](https://github.com/parabank/parabank-kinship-data) project. 
