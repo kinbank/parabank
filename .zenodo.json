@@ -1,0 +1,38 @@
+{
+    "access_right": "open",
+    "contributors": [
+        {
+            "name": "Sam Passmore",
+            "type": "DataCurator"
+        }
+    ],
+    "keywords": [
+        "cultural-heritage"
+    ],
+    "upload_type": "dataset",
+    "creators": [
+      {
+        "name": "Wolfgang Barth"
+      }, 
+      {
+        "name": "Simon Greenhill"
+      }, 
+      {
+        "name": "Kyla Quinn"
+      }, 
+      {
+        "name": "Sam Passmore"
+      }, 
+      {
+        "name": "Fiona M Jordan"
+      },
+      {
+        "name": "Nicholas D Evans"
+      }
+    ],
+    "title": "Parabank: A global collection of kinship terminology",
+    "description": "<p>The data repository for the Parabank dataset </p>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
