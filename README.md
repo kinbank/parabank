@@ -1,6 +1,8 @@
 Parabank
 ============================
 
+[![DOI](https://zenodo.org/badge/374493383.svg)](https://zenodo.org/badge/latestdoi/374493383)
+
 This repository contains the kinship terminology data from the [Parabank](https://github.com/parabank/parabank-kinship-data) project. 
 
 
