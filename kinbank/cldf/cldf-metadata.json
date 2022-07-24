@@ -48,7 +48,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 71800,
+            "dc:extent": 71832,
             "tableSchema": {
                 "columns": [
                     {
@@ -167,7 +167,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -235,6 +235,10 @@
                     {
                         "datatype": "string",
                         "name": "Link"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Set"
                     }
                 ],
                 "primaryKey": [
@@ -261,7 +265,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "name": "Concepticon_ID"
                     },
                     {
