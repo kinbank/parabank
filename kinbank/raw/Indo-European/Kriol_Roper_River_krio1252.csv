@@ -1,11 +1,11 @@
 parameter,word,ipa,description,alternative,source_raw,source_bibtex,comment
 mG,,,male speaker's sibling,,,dickson2015,
 mB,,,male speaker's brother,,,dickson2015,
-mZ,baba, rabish,,male speaker's sister,,,dickson2015,
+mZ,baba, rabish,,male speaker's sister,,dickson2015,dickson2015
 meB,,,male speaker's elder brother,,,dickson2015,
 myB,,,male speaker's younger brother,,,dickson2015,
-meZ,baba, rabish,,male speaker's elder sister,,,dickson2015,
-myZ,baba, rabish,,male speaker's younger sister,,,dickson2015,
+meZ,baba, rabish,,male speaker's elder sister,,dickson2015,dickson2015
+myZ,baba, rabish,,male speaker's younger sister,,dickson2015,dickson2015
 mP,,,male speaker's parent,,,dickson2015,
 mF,dedi,,male speaker's father,,,dickson2015,
 mM,mami,,male speaker's mother,,,dickson2015,
@@ -44,17 +44,17 @@ myBS,san,,male speaker's younger brother's son,,,dickson2015,
 meBD,dota,,male speaker's older brother's daughter,,,dickson2015,
 myBD,dota,,male speaker's younger brother's daughter,,,dickson2015,
 meZS,nefyu,,male speaker's older sister's son,,,dickson2015,
-myZS,nis, gudi,,male speaker's younger sister's son,,,dickson2015,
+myZS,nis, gudi,,male speaker's younger sister's son,,dickson2015,dickson2015
 meZD,,,male speaker's older sister's daughter,,,dickson2015,
 myZD,,,male speaker's younger sister's daughter,,,dickson2015,
-mFZD,barnka, kas,,male speaker's father's sister's daughter,,,dickson2015,
+mFZD,barnka, kas,,male speaker's father's sister's daughter,,dickson2015,dickson2015
 mFBD,,,male speaker's father's brother's daughter,,,dickson2015,
 mMBD,,,male speaker's mother's brother's daughter,,,dickson2015,
 mMZD,baba,,male speaker's mother's sister's daughter,,,dickson2015,
-mFBS,barnka, kas,,male speaker's father's brother's son,,,dickson2015,
-mFZS,barnka, kas,,male speaker's father's sister's son,,,dickson2015,
-mMBS,barnka, kas,,male speaker's mother's brother's son,,,dickson2015,
-mMZS,barnka, kas,,male speaker's mother's sister's son,,,dickson2015,
+mFBS,barnka, kas,,male speaker's father's brother's son,,dickson2015,dickson2015
+mFZS,barnka, kas,,male speaker's father's sister's son,,dickson2015,dickson2015
+mMBS,barnka, kas,,male speaker's mother's brother's son,,dickson2015,dickson2015
+mMZS,barnka, kas,,male speaker's mother's sister's son,,dickson2015,dickson2015
 mFeBS,baba,,male speaker's father's older brother's son,,,dickson2015,
 mFyBS,baba,,male speaker's father's younger brother's son,,,dickson2015,
 mFeZS,,,male speaker's father's older sister's son,,,dickson2015,
@@ -150,8 +150,8 @@ fMeZ,mami,,female speaker's mother's older sister,,,dickson2015,
 fMyZ,mami,,female speaker's mother's younger sister,,,dickson2015,
 fMeB,anggurl,,female speaker's mother's older brother,,,dickson2015,
 fMyB,anggurl,,female speaker's mother's younger brother,,,dickson2015,
-fBS,nefyu, gudi,,female speaker's brother's son,,,dickson2015,
-fBD,nis, gudi,,female speaker's brother's daughter,,,dickson2015,
+fBS,nefyu, gudi,,female speaker's brother's son,,dickson2015,dickson2015
+fBD,nis, gudi,,female speaker's brother's daughter,,dickson2015,dickson2015
 fZS,,,female speaker's sister's son,,,dickson2015,
 fZD,,,female speaker's sister's daughter,,,dickson2015,
 feBS,,,female speaker's older brother's son,,,dickson2015,
