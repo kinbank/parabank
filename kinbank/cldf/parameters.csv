@@ -205,15 +205,23 @@ myZD,male ego's younger sister's daughter,,,myZD,Nieces & Nephews,varikin;paraba
 myZS,male ego's younger sister's son,,,myZS,Nieces & Nephews,varikin;parabank
 fA,female ego's ancestor,,,fA,Grandparents & -children,varikin
 fB,female ego's brother,,,fB,Siblings,varikin
+fBD,female ego's brother's daughter,,,fBD,Nieces & Nephews,varikin
+fBS,female ego's brother's son,,,fBS,Nieces & Nephews,varikin
 fC,female ego's child,,,fC,Children,varikin
 fCC,female ego's child's child,,,fCC,Grandparents & -children,varikin
 fE,female ego's spouse,,,fE,Affines,varikin
+fFB,female ego's father's brother,,,fFB,Uncles & Aunts,varikin
 fFW_notM,female ego's father's wife (not mother),,,fFW(notM),Affines,varikin
+fFZ,female ego's father's sister,,,fFZ,Uncles & Aunts,varikin
 fG,female ego's grandparent,,,fG,Grandparents & -children,varikin
+fMB,female ego's mother's brother,,,fMB,Uncles & Aunts,varikin
 fMH_notF,female ego's mother's husband (not father),,,fMH(notF),Affines,varikin
+fMZ,female ego's mother's sister,,,fMZ,Uncles & Aunts,varikin
 fP,female ego's parent,,,fP,,varikin
 fPP,female ego's parents' parent,,,fPP,Grandparents & -children,varikin
 fZ,female ego's sister,,,fZ,Siblings,varikin
+fZD,female ego's sister's daughter,,,fZD,Nieces & Nephews,varikin
+fZS,female ego's sister's son,,,fZS,,varikin
 mA,male ego's ancestor,,,mA,Grandparents & -children,varikin
 mB,male ego's brother,,,mB,Siblings,varikin
 mC,male ego's child,,,mC,Children,varikin
@@ -221,7 +229,11 @@ mCC,male ego's child's child,,,mCC,Grandparents & -children,varikin
 mE,male ego's spouse,,,mE,Affines,varikin
 mFW_notM,male ego's father's wife (not mother),,,mFW(notM),Affines,varikin
 mG,male ego's Grandparent,,,mG,,varikin
+mMB,male ego's mother's brother,,,mMB,Uncles & Aunts,varikin
 mMH_notF,male ego's mother's husband's (not father),,,mMH(notF),Affines,varikin
+mMZ,male ego's mother's sister,,,mMZ,Uncles & Aunts,varikin
 mP,male ego's parent,,,mP,,varikin
 mPP,male ego's parent's parent,,,mPP,,varikin
 mZ,male ego's sister,,,mZ,Siblings,varikin
+mZD,male ego's sister's daughter,,,mZD,Nieces & Nephews,varikin
+mZS,male ego's sister's son,,,mZS,Nieces & Nephews,varikin
