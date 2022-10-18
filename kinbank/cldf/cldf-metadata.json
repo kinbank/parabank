@@ -22,7 +22,7 @@
         {
             "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0",
+            "dc:created": "v2.2.0-9-gdd25ef6",
             "dc:title": "CLTS"
         }
     ],
@@ -33,7 +33,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.11.0b5"
+            "dc:description": "3.9.12"
         },
         {
             "dc:title": "python-packages",

@@ -28,7 +28,7 @@ backfill:
 
 # generate CLDF
 cldf: env ./kinbank/raw/
-	./env/bin/python3 ./env/bin/cldfbench lexibank.makecldf --glottolog-version $(GLOTTOLOG) --concepticon-version $(CONCEPTICON) kinbank
+	./env/bin/python ./env/bin/cldfbench lexibank.makecldf --glottolog-version $(GLOTTOLOG) --concepticon-version $(CONCEPTICON) kinbank
 
 test: env
 	cd kinbank && pytest

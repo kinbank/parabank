@@ -1,8 +1,10 @@
 pylexibank>=2.1
 cldfbench[excel]
+#git+https://github.com/cldf/cldfbench/@e4235b680bf17a89c3c496eb41c64814b2d549d0
 pyglottolog
 pyconcepticon
 pytest-cldf
 openpyxl
 pycldf>=1.24
 clldutils>=3.12
+
