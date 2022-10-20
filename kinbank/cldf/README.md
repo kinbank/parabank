@@ -29,7 +29,7 @@ This is the basis for creating rows in CLDF representations of the data by
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 79844
+[dc:extent](http://purl.org/dc/terms/extent) | 79955
 
 
 ### Columns
@@ -55,7 +55,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 629
+[dc:extent](http://purl.org/dc/terms/extent) | 630
 
 
 ### Columns

@@ -115,6 +115,7 @@ p_ibaloinabaloiibal1244,Ibaloi,ibal1244,Ibaloi,ibl,Papunesia,16.4263,120.695,Aus
 p_ibanagiban1267,Ibanag,iban1267,Ibanag,ibg,Papunesia,17.4201,121.891,Austronesian,Ibanag_iban1267,parabank,Ibanag iban1267.txt,,20170620,,,Parabank
 p_ibaniban1264,Iban,iban1264,Iban,iba,Papunesia,2.09041,112.934,Austronesian,Iban_iban1264,parabank,Iban iban1264.txt,,20170620,,,Parabank
 p_idaanidaa1241,Ida'an,idaa1241,Ida'an,dbj,Papunesia,5.29059,118.515,Austronesian,Ida'an_idaa1241,parabank,Ida'an idaa1241.txt,,20170620,,,Parabank
+p_idinucl1597,Idi,nucl1597,Idi,idi,Papunesia,-8.75976,142.301,,Idi_nucl1597,parabank,Idi nucl1597.txt,,,,,Parabank
 p_ifugawifugaoifug1247,Ifugaw,ifug1247,Ifugaw,,,,,Austronesian,Ifugaw_(Ifugao)_ifug1247,parabank,Ifugaw (Ifugao) ifug1247.txt,,20170406,,,Parabank
 p_iliuuniliu1237,Ili'uun,iliu1237,Ili'uun,ilu,Papunesia,-7.84385,125.902,Austronesian,Ili'uun_iliu1237,parabank,Ili'uun iliu1237.txt,,20170616,,,Parabank
 p_ilokanoilok1237,Iloko,ilok1237,Iloko,ilo,Papunesia,15.9361,120.993,Austronesian,Ilokano_ilok1237,parabank,Ilokano ilok1237.txt,,20170620,,,Parabank
@@ -556,7 +557,7 @@ p_alamblakalam1246,Alamblak,alam1246,Alamblak,,Papunesia,-4.66307,143.316,Sepik,
 p_amanabaman1265,Amanab,aman1265,Amanab,,Papunesia,-3.51516,141.178,Border,Amanab_aman1265,parabank,,,,,,
 p_auauuu1241,Au,auuu1241,Au,,Papunesia,-3.53277,142.105,Nuclear Torricelli,Au_auuu1241,parabank,,,,,,
 p_imbonguimbo1238,Imbongu,imbo1238,Imbongu,,Papunesia,-6.13629,144.026,Nuclear Trans New Guinea,Awa_imbo1238,parabank,,,,,,
-p_xawia1234,,awia1234,Awiakay-Karimba,,Papunesia,,,Arafundi,Awiakay_awia1234,parabank,,,,,,
+p_xawia1234,Awiakay,awia1234,Awiakay-Karimba,,Papunesia,,,Arafundi,Awiakay_awia1234,parabank,,,,,,
 p_baruyabaru1267,Baruya,baru1267,Baruya,,Papunesia,-6.89261,145.818,Angan,Baruya_baru1267,parabank,,,,,,
 p_berikberi1254,Berik,beri1254,Berik,,Papunesia,-2.26904,138.866,Tor-Orya,Berik_beri1254,parabank,,,,,,
 p_biluabilu1245,Bilua,bilu1245,Bilua,,Papunesia,-7.92388,156.663,Bilua,Bilua_bilu1245,parabank,,,,,,
@@ -597,7 +598,7 @@ p_boungboun1245,Bo-Ung,boun1245,Bo-Ung,,Papunesia,-5.8626,144.086,Nuclear Trans 
 p_lolodalabalolo1264,Loloda-Laba,lolo1264,Loloda-Laba,,Papunesia,1.95461,127.772,North Halmahera,Loloda-Laba_(Loda)_lolo1264,parabank,,,,,,
 p_modolemodo1249,Modole,modo1249,Modole,,Papunesia,1.40199,127.752,North Halmahera,Madole_modo1249,parabank,,,,,,
 p_mairasinucl1594,Mairasi,nucl1594,Mairasi,,Papunesia,-3.4511,134.071,Mairasic,Mairasi_nucl1594,parabank,,,,,,
-p_xmala1294,,mala1294,,,,,,,Mala_mala1294,parabank,,,,,,
+p_xmala1294,Mala,mala1294,,,,,,,Mala_mala1294,parabank,,,,,,
 p_maybratkaronmaib1239,Maybrat-Karon,maib1239,Maybrat-Karon,,Papunesia,-1.3679,132.591,Maybrat-Karon,Maybrat_maib1239,parabank,,,,,,
 p_mianimian1254,Miani,mian1254,Miani,,Papunesia,-4.42116,145.276,Nuclear Trans New Guinea,Miani_mian1254,parabank,,,,,,
 p_momufasfass1245,Momu-Fas,fass1245,Momu-Fas,,Papunesia,-3.10868,141.64,Baibai-Fas,Momu-Fas_fass1245,parabank,,,,,,
@@ -618,7 +619,7 @@ p_siwaisiwa1245,Siwai,siwa1245,Siwai,,Papunesia,-6.6429,155.452,South Bougainvil
 p_tablatabl1243,Tabla,tabl1243,Tabla,,Papunesia,-2.45368,140.396,Sentanic,Tabla_tabl1243,parabank,,,,,,
 p_taiaptaia1239,Taiap,taia1239,Taiap,,Papunesia,-4.05047,144.506,Taiap,Taiap_taia1239,parabank,,,,,,
 p_telefoltele1256,Telefol,tele1256,Telefol,,Papunesia,-5.07444,141.731,Nuclear Trans New Guinea,Telefol_tele1256,parabank,,,,,,
-p_xtido1249,,tido1249,,,,,,,Tidore_tido1249,parabank,,,,,,
+p_xtido1249,Tidore,tido1249,,,,,,,Tidore_tido1249,parabank,,,,,,
 p_touotouo1238,Touo,touo1238,Touo,,Papunesia,-8.58405,157.296,Touo,Touo_touo1238,parabank,,,,,,
 p_umbuunguumbu1258,Umbu-Ungu,umbu1258,Umbu-Ungu,,Papunesia,-5.9513,143.97,Nuclear Trans New Guinea,Umbu-Ungu_umbu1258,parabank,,,,,,
 p_usarufausar1243,Usarufa,usar1243,Usarufa,,Papunesia,-6.38898,145.633,Nuclear Trans New Guinea,Usurufa_usar1243,parabank,,,,,,

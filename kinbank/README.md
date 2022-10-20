@@ -15,9 +15,9 @@ this dataset using the DOI of the [particular released version](../../releases/)
 ![Concepticon: 14%](https://img.shields.io/badge/Concepticon-14%25-red.svg "Concepticon: 14%")
 ![Source: 99%](https://img.shields.io/badge/Source-99%25-green.svg "Source: 99%")
 
-- **Varieties:** 629
+- **Varieties:** 630
 - **Concepts:** 238
-- **Lexemes:** 79,844
+- **Lexemes:** 79,955
 - **Sources:** 341
 - **Synonymy:** 1.16
 
@@ -25,7 +25,7 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 
 
-- Entries missing sources: 864/79844 (1.08%)
+- Entries missing sources: 864/79955 (1.08%)
 
 ## CLDF Datasets
 
