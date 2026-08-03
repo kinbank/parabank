@@ -2,6 +2,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 p_abuiabui1241,Abui,abui1241,Abui,abz,Papunesia,-8.31058,124.588,,Abui_abui1241,parabank,Abui abui1241.txt,,20170621,,,Parabank
 p_achineseachi1257,Acehnese,achi1257,Acehnese,ace,Papunesia,3.90757,96.6032,Austronesian,Achinese_achi1257,parabank,Achinese achi1257.txt,,20170718,,https://collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ37156.pdf,Parabank
 p_adangadan1251,Adang,adan1251,Adang,adn,Papunesia,-8.18958,124.448,,Adang_adan1251,parabank,Adang adan1251.txt,,20170621,,,Parabank
+p_agobendekawamagob1244,Agob-Ende-Kawam,agob1244,Agob-Ende-Kawam,kit,Papunesia,-9.08521,142.532,,Agob-Ende-Kawam_agob1244,parabank,Agob-Ende-Kawam agob1244.txt,,20171204,,,Parabank
 p_aklanonakla1241,Aklanon,akla1241,Kailibo Aklanon,akl,Papunesia,11.5543,122.354,Austronesian,Aklanon_akla1241,parabank,Aklanon akla1241.txt,,20170614,,,Parabank
 p_alanganalan1249,Alangan,alan1249,Alangan,alj,Papunesia,13.0982,121.022,Austronesian,Alangan_alan1249,parabank,Alangan alan1249.txt,,20170616,,,Parabank
 p_ampibabolaujeampi1237,Ampibabo,ampi1237,Ampibabo,,Papunesia,,,Austronesian,Ampibabo_Lauje_ampi1237,parabank,Ampibabo Lauje ampi1237.txt,,20161207,,,Parabank
@@ -29,7 +30,6 @@ p_balaesangbala1314,Balaesang,bala1314,Balaesang,bls,Papunesia,-0.05644,119.689,
 p_balangaobala1310,Balangao,bala1310,Balangao,blw,Papunesia,17.0994,121.272,Austronesian,Balangao_bala1310,parabank,Balangao bala1310.txt,,,,,Parabank
 p_balinesebali1278,Balinese,bali1278,Balinese,ban,Papunesia,-8.35714,115.075,Austronesian,Balinese_bali1278,parabank,Balinese bali1278.txt,,20170718,,collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ37156.pdf,Parabank
 p_banjarbanj1239,Banjar,banj1239,Banjar,bjn,Papunesia,0.747105,115.79,Austronesian,Banjar_banj1239,parabank,Banjar banj1239.txt,,20170718,,collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ37156.pdf,Parabank
-p_bannonibann1247,Bannoni,bann1247,Bannoni,bcm,Papunesia,-6.23061,155.128,Austronesian,Bannoni_bann1247,parabank,Bannoni bann1247.txt,,20170614,,,Parabank
 p_barabethanohano1246a,Hano,hano1246,Hano,lml,Papunesia,-15.5432,168.167,Austronesian,Barabet_(Hano)_hano1246a,parabank,Barabet (Hano) hano1246a.txt,,,,,Parabank
 p_bardibard1254,Bardic,bard1254,Bardic,,,,,,Bardi_bard1254,parabank,Bardi bard1254.txt,,,Bowern 2012:42-43,,Parabank
 p_bariokelabitbari1288,Bario,bari1288,Bario,,Papunesia,,,Austronesian,Bario_Kelabit_bari1288,parabank,Bario Kelabit bari1288.txt,,20170614,,https://books.google.de/books?id=ScykJxGVNXYC&pg=PA96&lpg=PA96&dq=kelabit+kinship&source=bl&ots=b6oYHySdrG&sig=OqoGIumbOlPCdywSbgn-6LYy82Q&hl=en&sa=X&ved=0ahUKEwif99qo87zUAhWHKVAKHbHbApoQ6AEIKDAA#v=onepage&q=kelabit%20kinship&f=false,Parabank
@@ -95,11 +95,14 @@ p_emaemaeemae1237,Emae,emae1237,Emae,mmw,Papunesia,-17.052,168.399,Austronesian,
 p_emauemaoislandemau1237,Emau,emau1237,Emau,,Papunesia,,,Austronesian,Emau_(Emao_Island)_emau1237,parabank,Emau (Emao Island) emau1237.txt,,20180123,,,Parabank
 p_endepapuanewguineaende1235,Ende (Papua New Guinea),ende1235,Ende (Papua New Guinea),,Papunesia,-8.957786,142.240799,,Ende_(Papua_New_Guinea)_ende1235,parabank,Ende (Papua New Guinea) ende1235.txt,,20171113,,,Parabank
 p_englishstan1293,English,stan1293,English,eng,Eurasia,53,-1,Indo-European,English_stan1293,parabank,English stan1293.txt,,,,,Parabank
+p_eravesouthkewaerav1244,Erave,erav1244,Erave,kjy,Papunesia,-6.55011,143.918,Nuclear Trans New Guinea,Erave_(South_Kewa)_erav1244,parabank,Erave (South Kewa) erav1244.txt,,20170401,,,Parabank
 p_fijianfiji1243,Fijian,fiji1243,Fijian,fij,Papunesia,-18,178.33,Austronesian,Fijian_fiji1243,parabank,Fijian fiji1243.txt,,,,,Parabank
 p_finnishfinn1318,Finnish,finn1318,Finnish,fin,Eurasia,64.7628,25.5577,Uralic,Finnish_finn1318,parabank,Finnish finn1318.txt,,20170901,,,Parabank
 p_fortsenalkiaifort1240,Kiai,fort1240,Kiai,frt,Papunesia,-15.4484,166.931,Austronesian,Fortsenal_(Kiai)_fort1240,parabank,Fortsenal (Kiai) fort1240.txt,,20171108,,,Parabank
 p_futunaaniwafutu1245,Futuna-Aniwa,futu1245,Futuna-Aniwa,fut,Papunesia,-19.5303,170.215,Austronesian,Futuna-Aniwa_futu1245,parabank,Futuna-Aniwa futu1245.txt,,20170530,,,Parabank
 p_gadanggada1258,Ga'dang,gada1258,Ga'dang,gdg,Papunesia,17.2238,121.455,Austronesian,Ga'dang_gada1258,parabank,Ga'dang gada1258.txt,,,,,Parabank
+p_galeiaagale1259,Galela,gale1259,Galela,gbi,Papunesia,2.31461,128.44,,Galeia_A_gale1259,parabank,Galeia A gale1259.txt,,20170612,Data incomplete and source word list requires interpretation,,Parabank
+p_galeiabgale1259,Galela,gale1259,Galela,gbi,Papunesia,2.31461,128.44,,Galeia_B_gale1259,parabank,Galeia B gale1259.txt,,20170612,Data incomplete and source word list requires interpretation,,Parabank
 p_ganegimangane1237,Gane,gane1237,Gane,gzn,Papunesia,-0.42618,127.976,Austronesian,Gane_(Gimán)_gane1237,parabank,Gane (Gimán) gane1237.txt,,20170612,Data incomplete and source word list requires interpretation,,Parabank
 p_ganggalidagang1267,Ganggalida,gang1267,Ganggalida,gcd,Australia,-17.5446,139.426,,Ganggalida_gang1267,parabank,Ganggalida gang1267.txt,,,"Ganggalida (Yukulta) language, Tangkic Family, sources are Keen 1983 and Nancarrow 2014. So far entered as far as grandkin terms",,Parabank
 p_gayogayo1244,Gayo,gayo1244,Gayo,gay,Papunesia,4.3733,97.3456,Austronesian,Gayo_gayo1244,parabank,Gayo gayo1244.txt,,20170402,,,Parabank
@@ -123,6 +126,7 @@ p_inanwatansuaboinan1242,Inanwatan,inan1242,Inanwatan,,,,,,Inanwatan_(Suabo)_ina
 p_indonesianbajauindo1317,Indonesian Bajau,indo1317,Indonesian Bajau,bdl,Papunesia,-3.68664,122.253,Austronesian,Indonesian_Bajau_indo1317,parabank,Indonesian Bajau indo1317.txt,,,,,Parabank
 p_indonesianindo1316,Indonesian,indo1316,Standard Indonesian,ind,Papunesia,-7.33458,109.716,Austronesian,Indonesian_indo1316,parabank,Indonesian indo1316.txt,,20170621,,,Parabank
 p_irayairay1237,Iraya,iray1237,Iraya,iry,Papunesia,13.381,120.65,Austronesian,Iraya_iray1237,parabank,Iraya iray1237.txt,,20170616,,,Parabank
+p_isakakrisakris1246,I'saka,kris1246,I'saka,ksi,Papunesia,-2.80084,141.303,,I'saka_(Krisa)_kris1246,parabank,I'saka (Krisa) kris1246.txt,,20161201,,,Parabank
 p_isnagisna1241,Isnag,isna1241,Isnag,isd,Papunesia,18.2139,121.16,Austronesian,Isnag_isna1241,parabank,Isnag isna1241.txt,,,,,Parabank
 p_itbayativat1242,Itbayat,ivat1242,Itbayat,ivv,Papunesia,20.77,121.85,Austronesian,Itbayat_ivat1242,parabank,Itbayat ivat1242.txt,,20170620,,,Parabank
 p_itnegbinonganbino1237,Binongan Itneg,bino1237,Binongan Itneg,itb,Papunesia,17.5972,120.876,Austronesian,Itneg_(Binongan)_bino1237,parabank,Itneg (Binongan) bino1237.txt,,,,,Parabank
@@ -146,9 +150,11 @@ p_khalkhamongolianmong1331,Mongolian,mong1331,Mongolian,mon,Eurasia,,,,Khalkha-M
 p_kilivilakili1267,Kilivila,kili1267,Kilivila,kij,Papunesia,-8.72574,151.072,Austronesian,Kilivila_kili1267,parabank,Kilivila kili1267.txt,,20170627,,,Parabank
 p_kiputkipu1237,Kiput,kipu1237,Kiput,kyi,Papunesia,4.16535,114.367,Austronesian,Kiput_kipu1237,parabank,Kiput kipu1237.txt,,20161202,,,Parabank
 p_kiramankira1248,Kiramang,kira1248,Kiramang,,Papunesia,,,,Kiraman_kira1248,parabank,Kiraman kira1248.txt,,20170621,,,Parabank
-p_kiwaiankiwa1251,Kiwaian,kiwa1251,Kiwaian,,,,,,Kiwaian_kiwa1251,parabank,Kiwaian kiwa1251.txt,,,,,Parabank
+p_kiwaiansout2949,Southern Kiwaian,sout2949,Southern Kiwai,,Papunesia,,,,Kiwaian_sout2949,parabank,Kiwaian sout2949.txt,,,,,Parabank
+p_klonklon1234,Klon-Kafoa,kelo1247,Klon,,Papunesia,,,,Klon_kelo1247,parabank,Klon kelo1247.txt,,20161124,,,Parabank
 p_kodeohakode1237,Kodeoha,kode1237,Kodeoha,vko,Papunesia,-3.39566,120.937,Austronesian,Kodeoha_kode1237,parabank,Kodeoha kode1237.txt,,20161209,,,Parabank
 p_kogicogu1240,Cogui,cogu1240,Cogui,kog,South America,10.9485,-73.8043,,Kogi_cogu1240,parabank,Kogi_cogu1240.txt,,20191115,,,Parabank
+p_koiarigras1249,Grass Koiari,gras1249,Grass Koiari,kbk,Papunesia,-9.51218,147.437,,Koiari_gras1249,parabank,Koiari gras1249.txt,,20161205,,,Parabank
 p_kombakomb1273,Komba,komb1273,Komba,kpf,Papunesia,-6.16163,147.28,Nuclear Trans New Guinea,Komba_komb1273,parabank,Komba komb1273.txt,,20171030,,,Parabank
 p_komnzokomn1238,Kómnjo,komn1238,Kómnjo,,Papunesia,,,,Komnzo_komn1238,parabank,Komnzo komn1238.txt,,,"g represents /ŋg/ and th represents θ, in addition ə is inserted into certain clusters, so that orthographic <nge> is phonetic [nəŋge]",,Parabank
 p_konawekona1243,Konawe,kona1243,Konawe,,Papunesia,,,Austronesian,Konawe_kona1243,parabank,Konawe kona1243.txt,,20161209,,,Parabank
@@ -160,6 +166,7 @@ p_kulisusukuli1254,Kulisusu,kuli1254,Kulisusu,vkl,Papunesia,-4.58411,123.045,Aus
 p_kunjenkunj1248,Southwestern Alaya-Athima,kunj1248,Southwestern Alaya-Athima,,,,,Pama-Nyungan,Kunjen_kunj1248,parabank,Kunjen kunj1248.txt,,20161128,,,Parabank
 p_kuotkuot1243,Kuot,kuot1243,Kuot,kto,Papunesia,-3.06952,151.537,,Kuot_kuot1243,parabank,Kuot kuot1243.txt,,20170326,,,Parabank
 p_kuukuyaukuuk1238,Kuuku-Ya'u,kuuk1238,Kuuku-Ya'u,kuy,Australia,-12.4947,143.165,Pama-Nyungan,Kuuku_Ya'u_kuuk1238,parabank,Kuuku Ya'u kuuk1238.txt,,20171209,,,Parabank
+p_kuwaruboun1245,Bo-Ung,boun1245,Bo-Ung,mux,Papunesia,-5.8626,144.086,Nuclear Trans New Guinea,Ku_Waru_boun1245,parabank,Ku_Waru boun1245.txt,,20191122,,,Parabank
 p_kwaiokwai1243,Kwaio,kwai1243,Kwaio,kwd,Papunesia,-8.93744,160.965,Austronesian,Kwaio_kwai1243,parabank,Kwaio kwai1243.txt,,,,,Parabank
 p_kwamerakwam1252,Kwamera,kwam1252,Kwamera,tnk,Papunesia,-19.5954,169.442,Austronesian,Kwamera_kwam1252,parabank,Kwamera kwam1252.txt,,20170531,,,Parabank
 p_kwomakwom1262,Kwoma,kwom1262,Kwoma,kmo,Papunesia,-4.08721,142.664,,Kwoma_kwom1262,parabank,Kwoma kwom1262.txt,,20170125,,,Parabank
@@ -185,6 +192,7 @@ p_lisulisu1250a,Lisu,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan,Lisu_lis
 p_lisulisu1250b,Lisu,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan,Lisu_lisu1250b,parabank,Lisu lisu1250b.txt,,,,,Parabank
 p_lisulisu1250c,Lisu,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan,Lisu_lisu1250c,parabank,Lisu lisu1250c.txt,,,,,Parabank
 p_lisulisu1250d,Lisu,lisu1250,Lisu,lis,Eurasia,26.91,98.94,Sino-Tibetan,Lisu_lisu1250d,parabank,Lisu lisu1250d.txt,,,,,Parabank
+p_lolodalabalodalolo1264,Loloda-Laba,lolo1264,Loloda-Laba,loa,Papunesia,1.95461,127.772,,Loloda-Laba_(Loda)_lolo1264,parabank,Loloda-Laba (Loda) lolo1264.txt,,20170612,Data incomplete and source word list requires interpretation,,Parabank
 p_loniuloni1238,Loniu,loni1238,Loniu,los,Papunesia,-2.06124,147.35,Austronesian,Loniu_loni1238,parabank,Loniu loni1238.txt,,20170601,,,Parabank
 p_lonwolwollonw1238,Lonwolwol,lonw1238,Lonwolwol,crc,Papunesia,-16.2286,168.016,Austronesian,Lonwolwol_lonw1238,parabank,Lonwolwol lonw1238.txt,,20171010,,,Parabank
 p_lotogalohloto1240,Lo-Toga,loto1240,Lo-Toga,lht,Papunesia,-13.334872,166.634338,Austronesian,Lo-Toga_(Loh)_loto1240,parabank,Lo-Toga (Loh) loto1240.txt,,20171101,,,Parabank
@@ -193,6 +201,7 @@ p_luburuakaralubu1242,Luburua,lubu1242,Luburua,,Papunesia,,,Austronesian,Luburua
 p_maanyanmaan1238,Ma'anyan,maan1238,Ma'anyan,mhy,Papunesia,-2.1239,115.092,Austronesian,Ma'anyan_maan1238,parabank,Ma'anyan maan1238.txt,,20170628,,,Parabank
 p_mabaindonesiamaba1278,Maba (Indonesia),maba1278,Maba (Indonesia),mqa,Papunesia,0.59011,128.418,Austronesian,Maba_(Indonesia)_maba1278,parabank,Maba (Indonesia) maba1278.txt,,20170612,Data incomplete and source word list requires interpretation,,Parabank
 p_madakkonnosmada1284,Madak linkage,mada1284,Madak linkage,,,,,Austronesian,Madak_(Konnos)_mada1284,parabank,Madak (Konnos) mada1284.txt,,20170326,,,Parabank
+p_madolemodo1249,Modole,modo1249,Modole,mqo,Papunesia,1.40199,127.752,,Madole_modo1249,parabank,Madole modo1249.txt,,20170612,Data incomplete and source word list requires interpretation,,Parabank
 p_maduresenucl1460,Madurese,nucl1460,Madurese,mad,Papunesia,-7,113,Austronesian,Madurese_nucl1460,parabank,Madurese nucl1460.txt,,20170718,,collectionscanada.gc.ca/obj/s4/f2/dsk2/ftp01/MQ37156.pdf,Parabank
 p_mafeamaveamafe1237,Mafea,mafe1237,Mafea,mkv,Papunesia,-15.4316,167.241,Austronesian,Mafea_(Mavea)_mafe1237,parabank,Mafea (Mavea) mafe1237.txt,,20171110,,,Parabank
 p_magammaga1262,Magam,maga1262,Magam,,Papunesia,,,Austronesian,Magam_maga1262,parabank,Magam maga1262.txt,,20171011,,,Parabank
@@ -215,6 +224,7 @@ p_marquesasmarq1246,Marquesan,marq1246,Marquesan,,,,,Austronesian,Marquesas_marq
 p_marshallesemars1254,Marshallese,mars1254,Marshallese,mah,Papunesia,8.72,167.73,Austronesian,Marshallese_mars1254,parabank,Marshallese mars1254.txt,,20170703,,,Parabank
 p_maskelynesmask1242,Maskelynes,mask1242,Maskelynes,klv,Papunesia,-16.5073,167.818,Austronesian,Maskelynes_mask1242,parabank,Maskelynes mask1242.txt,,20171204,,,Parabank
 p_matukarmatu1261,Matukar,matu1261,Matukar,mjk,Papunesia,-4.9078,145.779,Austronesian,Matukar_matu1261,parabank,Matukar matu1261.txt,,,,,Parabank
+p_maybratmaib1239,Maybrat-Karon,maib1239,Maybrat-Karon,ayz,Papunesia,-1.3679,132.591,,Maybrat_maib1239,parabank,Maybrat maib1239.txt,,20161125,,,Parabank
 p_mblafembla1238,Mblafe,mbla1238,Mblafe,,Papunesia,,,,Mblafe_mbla1238,parabank,Mblafe mbla1238.txt,,20170322,,,Parabank
 p_mekeoeastmeke1243d,Mekeo,meke1243,Mekeo,mek,Papunesia,-8.23853,146.586,Austronesian,Mekeo_(East)_meke1243d,parabank,Mekeo (East) meke1243d.txt,,,,,Parabank
 p_mekeonorthmeke1243c,Mekeo,meke1243,Mekeo,mek,Papunesia,-8.23853,146.586,Austronesian,Mekeo_(North)_meke1243c,parabank,Mekeo (North) meke1243c.txt,,,,,Parabank
@@ -233,7 +243,7 @@ p_monoalumono1273,Mono-Alu,mono1273,Mono-Alu,mte,Papunesia,-7.05102,155.76,Austr
 p_morgan1871amazuluamazulukafirzulu1248,Zulu,zulu1248,Zulu,zul,Africa,-28.9,30.2,Atlantic-Congo,Morgan1871_Amazulu_(Amazulu_Kafir)_zulu1248,parabank,Morgan1871 Amazulu (Amazulu Kafir) zulu1248.txt,,,,,Parabank
 p_morgan1871anahnelingrosventresofprairiegros1243,Gros Ventre,gros1243,Gros Ventre,ats,North America,48.4834,-108.738,Algic,Morgan1871_An-ah'-ne-lin_(Gros_Ventres_of_Prairie)_gros1243,parabank,Morgan1871 An-ah'-ne-lin (Gros Ventres of Prairie) gros1243.txt,,,,,Parabank
 p_morgan1871arikaraarickareearik1262,Arikara,arik1262,Arikara,ari,North America,45,-100,,Morgan1871_Arikara_(Arickaree)_arik1262,parabank,Morgan1871 Arikara (Arickaree) arik1262.txt,,,,,Parabank
-p_morgan1871assiniboineasiniboineassi1247,Assiniboine,assi1247,Assiniboine,asb,North America,49.2923,-106.068,,Morgan1871_Assiniboine_(Asiniboine)_assi1247,parabank,Morgan1871 Assiniboine (Asiniboine) assi1247.txt,,,,,Parabank
+p_morgan1871assiniboineasiniboineassi1247,Assiniboine,assi1247,Assiniboine,asb,North America,49.2923,-106.068,Siouan,Morgan1871_Assiniboine_(Asiniboine)_assi1247,parabank,Morgan1871 Assiniboine (Asiniboine) assi1247.txt,,,,,Parabank
 p_morgan1871baffininuktituteskimonorthumberlandinletbaff1241,Baffin Inuktitut,baff1241,Baffin Inuktitut,,North America,,,,"Morgan1871_Baffin_Inuktitut_(Eskimo,_Northumberland_Inlet)_baff1241",parabank,"Morgan1871 Baffin Inuktitut (Eskimo, Northumberland Inlet) baff1241.txt",,,,,Parabank
 p_morgan1871bengalibeng1280,Bengali,beng1280,Bengali,ben,Eurasia,24,90,Indo-European,Morgan1871_Bengâli_beng1280,parabank,Morgan1871 Bengâli beng1280.txt,,,,,Parabank
 p_morgan1871bloodsiksikabloodblackfootbloo1239,Blood,bloo1239,Blood,,North America,,,Algic,Morgan1871_Blood_Siksika_(Blood_Blackfoot)_bloo1239,parabank,Morgan1871 Blood Siksika (Blood Blackfoot) bloo1239.txt,,,,,Parabank
@@ -248,15 +258,15 @@ p_morgan1871choctaw1choc1276,Choctaw,choc1276,Choctaw,cho,North America,32.25,-8
 p_morgan1871choctaw2choc1276,Choctaw,choc1276,Choctaw,cho,North America,32.25,-88.5,,Morgan1871_Choctaw_(2)_choc1276,parabank,Morgan1871 Choctaw (2) choc1276.txt,,,,,Parabank
 p_morgan1871creekcree1270,Creek,cree1270,Creek,mus,North America,31,-87.5,,Morgan1871_Creek_cree1270,parabank,Morgan1871 Creek cree1270.txt,,,,,Parabank
 p_morgan1871creeofthelowlandscree1272,Cree,cree1272,Cree,cre,North America,,,Algic,Morgan1871_Cree_of_the_Lowlands_cree1272,parabank,Morgan1871 Cree of the Lowlands cree1272.txt,,,,,Parabank
-p_morgan1871crowcrow1244,Crow,crow1244,Crow,cro,North America,45.368,-107.874,,Morgan1871_Crow_crow1244,parabank,Morgan1871 Crow crow1244.txt,,,,,Parabank
-p_morgan1871dakotablackfootlako1247,Lakota,lako1247,Lakota,lkt,North America,46.3699,-103.95,,Morgan1871_Dakota_Blackfoot_lako1247,parabank,Morgan1871 Dakota: Blackfoot lako1247.txt,,,,,Parabank
-p_morgan1871dakotabrulebrul1239,Brulé,brul1239,Brulé,,North America,,,,Morgan1871_Dakota_Brule_brul1239,parabank,Morgan1871 Dakota: Brule brul1239.txt,,,,,Parabank
-p_morgan1871dakotaisauntiedako1258,Dakota,dako1258,Dakota,dak,North America,47.6857,-102.12,,Morgan1871_Dakota_Isauntie_dako1258,parabank,Morgan1871 Dakota: Isauntie dako1258.txt,,,,,Parabank
-p_morgan1871dakotaogalallalako1247,Lakota,lako1247,Lakota,lkt,North America,46.3699,-103.95,,Morgan1871_Dakota_Ogalalla_lako1247,parabank,Morgan1871 Dakota: Ogalalla lako1247.txt,,,,,Parabank
-p_morgan1871dakotasissetondako1258,Dakota,dako1258,Dakota,dak,North America,47.6857,-102.12,,Morgan1871_Dakota_Sisseton_dako1258,parabank,Morgan1871 Dakota: Sisseton dako1258.txt,,,,,Parabank
-p_morgan1871dakotauncpapalako1247,Lakota,lako1247,Lakota,lkt,North America,46.3699,-103.95,,Morgan1871_Dakota_Uncpapa_lako1247,parabank,Morgan1871 Dakota: Uncpapa lako1247.txt,,,,,Parabank
-p_morgan1871dakotayanktonaisdako1258,Dakota,dako1258,Dakota,dak,North America,47.6857,-102.12,,Morgan1871_Dakota_Yanktonais_dako1258,parabank,Morgan1871 Dakota: Yanktonais dako1258.txt,,,,,Parabank
-p_morgan1871dakotayanktondako1258,Dakota,dako1258,Dakota,dak,North America,47.6857,-102.12,,Morgan1871_Dakota_Yankton_dako1258,parabank,Morgan1871 Dakota: Yankton dako1258.txt,,,,,Parabank
+p_morgan1871crowcrow1244,Crow,crow1244,Crow,cro,North America,45.368,-107.874,Siouan,Morgan1871_Crow_crow1244,parabank,Morgan1871 Crow crow1244.txt,,,,,Parabank
+p_morgan1871dakotablackfootlako1247,Lakota,lako1247,Lakota,lkt,North America,46.3699,-103.95,Siouan,Morgan1871_Dakota_Blackfoot_lako1247,parabank,Morgan1871 Dakota: Blackfoot lako1247.txt,,,,,Parabank
+p_morgan1871dakotabrulebrul1239,Brulé,brul1239,Brulé,,North America,,,Siouan,Morgan1871_Dakota_Brule_brul1239,parabank,Morgan1871 Dakota: Brule brul1239.txt,,,,,Parabank
+p_morgan1871dakotaisauntiedako1258,Dakota,dako1258,Dakota,dak,North America,47.6857,-102.12,Siouan,Morgan1871_Dakota_Isauntie_dako1258,parabank,Morgan1871 Dakota: Isauntie dako1258.txt,,,,,Parabank
+p_morgan1871dakotaogalallalako1247,Lakota,lako1247,Lakota,lkt,North America,46.3699,-103.95,Siouan,Morgan1871_Dakota_Ogalalla_lako1247,parabank,Morgan1871 Dakota: Ogalalla lako1247.txt,,,,,Parabank
+p_morgan1871dakotasissetondako1258,Dakota,dako1258,Dakota,dak,North America,47.6857,-102.12,Siouan,Morgan1871_Dakota_Sisseton_dako1258,parabank,Morgan1871 Dakota: Sisseton dako1258.txt,,,,,Parabank
+p_morgan1871dakotauncpapalako1247,Lakota,lako1247,Lakota,lkt,North America,46.3699,-103.95,Siouan,Morgan1871_Dakota_Uncpapa_lako1247,parabank,Morgan1871 Dakota: Uncpapa lako1247.txt,,,,,Parabank
+p_morgan1871dakotayanktonaisdako1258,Dakota,dako1258,Dakota,dak,North America,47.6857,-102.12,Siouan,Morgan1871_Dakota_Yanktonais_dako1258,parabank,Morgan1871 Dakota: Yanktonais dako1258.txt,,,,,Parabank
+p_morgan1871dakotayanktondako1258,Dakota,dako1258,Dakota,dak,North America,47.6857,-102.12,Siouan,Morgan1871_Dakota_Yankton_dako1258,parabank,Morgan1871 Dakota: Yankton dako1258.txt,,,,,Parabank
 p_morgan1871delawarecomm1246,Common Delaware,comm1246,Common Delaware,del,North America,,,Algic,Morgan1871_Delaware_comm1246,parabank,Morgan1871 Delaware comm1246.txt,,,,,Parabank
 p_morgan1871etchemiuormalisetemale1293,Malecite,male1293,Malecite,,North America,,,Algic,"Morgan1871_Etchemiu,_or_Malisete_male1293",parabank,"Morgan1871 Etchemiu, or Malisete male1293.txt",,,,,Parabank
 p_morgan1871grandpawneepawn1254,Pawnee,pawn1254,Pawnee,paw,North America,36.2862,-96.8937,,Morgan1871_Grand_Pawnee_pawn1254,parabank,Morgan1871 Grand Pawnee pawn1254.txt,,,,,Parabank
@@ -271,7 +281,7 @@ p_morgan1871karenkare1337,Karenic,kare1337,Karenic,,,,,Sino-Tibetan,Morgan1871_K
 p_morgan1871karenpwodialectpwoo1239,Pwo,pwoo1239,Pwo,,,,,Sino-Tibetan,Morgan1871_Karen_(Pwo_dialect)_pwoo1239,parabank,Morgan1871 Karen (Pwo dialect) pwoo1239.txt,,,,,Parabank
 p_morgan1871karensgaudialectsgaw1245,S'gaw Karen,sgaw1245,S'gaw Karen,ksw,Eurasia,17.9872,97.7126,Sino-Tibetan,Morgan1871_Karen_(Sgau_dialect)_sgaw1245,parabank,Morgan1871 Karen (Sgau dialect) sgaw1245.txt,,,,,Parabank
 p_morgan1871kaskaskiaalgo1255,Algonquin,algo1255,Algonquin,alq,North America,47.3876,-77.5258,Algic,Morgan1871_Kaskaskia_algo1255,parabank,Morgan1871 Kaskaskia algo1255.txt,,,,,Parabank
-p_morgan1871kawkans1243,Kansa,kans1243,Kansa,ksk,North America,36.8044,-96.8571,,Morgan1871_Kaw_kans1243,parabank,Morgan1871 Kaw kans1243.txt,,,,,Parabank
+p_morgan1871kawkans1243,Kansa,kans1243,Kansa,ksk,North America,36.8044,-96.8571,Siouan,Morgan1871_Kaw_kans1243,parabank,Morgan1871 Kaw kans1243.txt,,,,,Parabank
 p_morgan1871kickapookikapookick1244,Kickapoo,kick1244,Kickapoo,kic,North America,41.655145,-89.03034,Algic,Morgan1871_Kickapoo_(Kikapoo)_kick1244,parabank,Morgan1871 Kickapoo (Kikapoo) kick1244.txt,,,,,Parabank
 p_morgan1871kingsmillislandsgilb1244,Gilbertese,gilb1244,Gilbertese,gil,Papunesia,-1.34,176.44,Austronesian,Morgan1871_Kings_Mill_Islands_gilb1244,parabank,Morgan1871 Kings Mill Islands gilb1244.txt,,,,,Parabank
 p_morgan1871kootenaykute1249,Kutenai,kute1249,Kutenai,kut,North America,48.7892,-115.065,,Morgan1871_Kootenay_kute1249,parabank,Morgan1871 Kootenay kute1249.txt,,,,,Parabank
@@ -294,7 +304,7 @@ p_morgan1871ojibwalakehuronojib1241,Ojibwa,ojib1241,Ojibwa,,,,,Algic,Morgan1871_
 p_morgan1871ojibwalakemichiganuppe1274,Upper Michigan-Wisconsin Chippewa,uppe1274,Upper Michigan-Wisconsin Chippewa,,North America,,,Algic,Morgan1871_Ojibwa_Lake_Michigan_uppe1274,parabank,Morgan1871 Ojibwa: Lake Michigan uppe1274.txt,,,,,Parabank
 p_morgan1871ojibwalakesuperiorojib1241,Ojibwa,ojib1241,Ojibwa,,,,,Algic,Morgan1871_Ojibwa_Lake_Superior_ojib1241,parabank,Morgan1871 Ojibwa: Lake Superior ojib1241.txt,,,,,Parabank
 p_morgan1871okinakenokan1243,Okanagan,okan1243,Okanagan,oka,North America,49.2745,-119.294,Salishan,Morgan1871_Okinaken_okan1243,parabank,Morgan1871 Okinaken okan1243.txt,,,,,Parabank
-p_morgan1871omahaomah1247,Omaha-Ponca,omah1247,Omaha-Ponca,oma,North America,42.0944,-96.5295,,Morgan1871_Omahä_omah1247,parabank,Morgan1871 Omahä omah1247.txt,,,,,Parabank
+p_morgan1871omahaomah1247,Omaha-Ponca,omah1247,Omaha-Ponca,oma,North America,42.0944,-96.5295,Siouan,Morgan1871_Omahä_omah1247,parabank,Morgan1871 Omahä omah1247.txt,,,,,Parabank
 p_morgan1871oneidaonei1249,Oneida,onei1249,Oneida,one,North America,43.438742,-75.708106,,Morgan1871_Oneida_onei1249,parabank,Morgan1871 Oneida onei1249.txt,,,,,Parabank
 p_morgan1871onondagaonon1246,Onondaga,onon1246,Onondaga,ono,North America,42.92,-76.12,,Morgan1871_Onondaga_onon1246,parabank,Morgan1871 Onondaga onon1246.txt,,,,,Parabank
 p_morgan1871osageosag1243,Osage,osag1243,Osage,osa,North America,36.7828,-96.2949,,Morgan1871_Osage_osag1243,parabank,Morgan1871 Osage osag1243.txt,,,,,Parabank
@@ -305,7 +315,7 @@ p_morgan1871pianeshawmiam1252,Miami,miam1252,Miami,mia,North America,40,-90,Algi
 p_morgan1871piegansiksikapieganblackfootpieg1239,Piegan,pieg1239,Piegan,,North America,,,Algic,Morgan1871_Piegan_Siksika_(Piegan_Blackfoot)_pieg1239,parabank,Morgan1871 Piegan Siksika (Piegan Blackfoot) pieg1239.txt,,,,,Parabank
 p_morgan1871plainscreecreeoftheprairieplai1258,Plains Cree,plai1258,Plains Cree,crk,North America,51.2437,-110.463,Algic,Morgan1871_Plains_Cree_(Cree_of_the_Prairie)_plai1258,parabank,Morgan1871 Plains Cree (Cree of the Prairie) plai1258.txt,,,,,Parabank
 p_morgan1871potawatomipotawattamiepota1247,Potawatomi,pota1247,Potawatomi,pot,North America,40.955,-89.1881,Algic,Morgan1871_Potawatomi_(Potǎwattamie)_pota1247,parabank,Morgan1871 Potawatomi (Potǎwattamie) pota1247.txt,,,,,Parabank
-p_morgan1871punkaponc1241,Ponca,ponc1241,Ponca,,North America,,,,Morgan1871_Punkä_ponc1241,parabank,Morgan1871 Punkä ponc1241.txt,,,,,Parabank
+p_morgan1871punkaponc1241,Ponca,ponc1241,Ponca,,North America,,,Siouan,Morgan1871_Punkä_ponc1241,parabank,Morgan1871 Punkä ponc1241.txt,,,,,Parabank
 p_morgan1871redknifeortalsoteenadogr1252,Dogrib,dogr1252,Dogrib,dgr,North America,62.3823,-114.193,,"Morgan1871_Red-knife,_or_Täl-sote'e-nä_dogr1252",parabank,"Morgan1871 Red-knife, or Täl-sote'e-nä dogr1252.txt",,,,,Parabank
 p_morgan1871republicanpawneepawn1254,Pawnee,pawn1254,Pawnee,paw,North America,36.2862,-96.8937,,Morgan1871_Republican_Pawnee_pawn1254,parabank,Morgan1871 Republican Pawnee pawn1254.txt,,,,,Parabank
 p_morgan1871sawkandfoxmesk1242,Meskwaki,mesk1242,Meskwaki,sac,North America,44,-89,Algic,Morgan1871_Sawk_and_Fox_mesk1242,parabank,Morgan1871 Sawk and Fox mesk1242.txt,,,,,Parabank
@@ -324,7 +334,7 @@ p_morgan1871twomountainiroquioslaur1250,Laurentian,laur1250,Laurentian,lre,North
 p_morgan1871utahstabegwachesutes1238,Ute-Southern Paiute,utes1238,Ute-Southern Paiute,ute,North America,40.0965,-110.305,Uto-Aztecan,Morgan1871_Utahs_(Tabegwaches)_utes1238,parabank,Morgan1871 Utahs (Tabegwaches) utes1238.txt,,,,,Parabank
 p_morgan1871weawnucl1653,Nuclear Miami,nucl1653,Nuclear Miami,,North America,,,Algic,Morgan1871_Weaw_nucl1653,parabank,Morgan1871 Weaw nucl1653.txt,,,,,Parabank
 p_morgan1871westerncanadianinuktituteskimowestofhudsonsbaywest2618,Western Canadian Inuktitut,west2618,Western Canadian Inuktitut,ikt,North America,64.3486,-96.148,,"Morgan1871_Western_Canadian_Inuktitut_(Eskimo,_West_of_Hudson's_Bay)_west2618",parabank,"Morgan1871 Western Canadian Inuktitut (Eskimo, West of Hudson's Bay) west2618.txt",,,,,Parabank
-p_morgan1871winnebagoewinn1245,Winnebago-Chiwere,winn1245,Winnebago-Chiwere,,,,,,Morgan1871_Winnebagoe_winn1245,parabank,Morgan1871 Winnebagoe winn1245.txt,,,,,Parabank
+p_morgan1871winnebagoewinn1245,Winnebago-Chiwere,winn1245,Winnebago-Chiwere,,,,,Siouan,Morgan1871_Winnebagoe_winn1245,parabank,Morgan1871 Winnebagoe winn1245.txt,,,,,Parabank
 p_morgan1871woodscreecreeofthewoodswood1236,Woods Cree,wood1236,Woods Cree,cwd,North America,57,-99,Algic,Morgan1871_Woods_Cree_(Cree_of_the_Woods)_wood1236,parabank,Morgan1871 Woods Cree (Cree of the Woods) wood1236.txt,,,,,Parabank
 p_morgan1871wyandotewyan1247,Huron-Wyandot,wyan1247,Huron-Wyandot,wya,North America,44.33,-77.5,,Morgan1871_Wyandote_wyan1247,parabank,Morgan1871 Wyandote wyan1247.txt,,,,,Parabank
 p_morgan1871yakamayaki1237,Northwest Sahaptin,yaki1237,Northwest Sahaptin,yak,North America,46.2655,-120.756,,Morgan1871_Yakama_yaki1237,parabank,Morgan1871 Yakama yaki1237.txt,,,,,Parabank
@@ -354,10 +364,12 @@ p_namanama1266,Nama (Papua New Guinea),nama1266,Nama (Papua New Guinea),nmx,Papu
 p_namanlitz1237,Naman,litz1237,Naman,lzl,Papunesia,-16.1331,167.415,Austronesian,Naman_litz1237,parabank,Naman litz1237.txt,,20171025,,,Parabank
 p_nambonamb1293,Nambo,namb1293,Nambo,ncm,Papunesia,-8.74501,141.931,,Nambo_namb1293,parabank,Nambo namb1293.txt,,,,,Parabank
 p_nanggunang1262,Nanggu,nang1262,Nanggu,ngr,Papunesia,-10.7441,165.887,Austronesian,Nanggu_nang1262,parabank,Nanggu nang1262.txt,,20170706,,,Parabank
+p_negwayagwoiayagw1240,Yagwoia,yagw1240,Yagwoia,ygw,Papunesia,-7.14042,145.854,,Negwa_(Yagwoia)_yagw1240,parabank,Negwa (Yagwoia) yagw1240.txt,,20170127,,,Parabank
 p_nehanneha1247,Nehan,neha1247,Nehan,nsn,Papunesia,-4.56875,154.2,Austronesian,Nehan_neha1247,parabank,Nehan neha1247.txt,,20170707,,,Parabank
 p_nemeneme1244,Neme,neme1244,Neme,nex,Papunesia,-8.44877,141.849,,Neme_neme1244,parabank,Neme neme1244.txt,,,,,Parabank
 p_nengoneneng1238,Nengone,neng1238,Nengone,nen,Papunesia,-21.5305,167.964,Austronesian,Nengone_neng1238,parabank,Nengone neng1238.txt,,20170404,,,Parabank
 p_nennenn1238,Nen,nenn1238,Nen,nqn,Papunesia,-8.62183,142.032,,Nen_nenn1238,parabank,Nen nenn1238.txt,,,,,Parabank
+p_nennenn1238a,Nen,nenn1238,Nen,nqn,Papunesia,-8.62183,142.032,,Nen_nenn1238a,parabank,Nen nenn1238a.txt,,,,,Parabank
 p_nesenese1235,Nese,nese1235,Nese,,Papunesia,-15.952608,167.222769,Austronesian,Nese_nese1235,parabank,Nese nese1235.txt,,20170707,,,Parabank
 p_neveeivinm1237,Neve'ei,vinm1237,Neve'ei,vnm,Papunesia,-16.2253,167.427,Austronesian,Neve'ei_vinm1237,parabank,Neve'ei vinm1237.txt,,20171025,,,Parabank
 p_neveeivinm1237a,Neve'ei,vinm1237,Neve'ei,vnm,Papunesia,-16.2253,167.427,Austronesian,Neve'ei_vinm1237a,parabank,Neve'ei vinm1237a.txt,,,,,Parabank
@@ -394,6 +406,7 @@ p_pohnpeianpohn1238a,Pohnpeian,pohn1238,Pohnpeian,pon,Papunesia,6.87212,158.223,
 p_portsandwichport1285,Port Sandwich,port1285,Port Sandwich,psw,Papunesia,-16.4952,167.78,Austronesian,Port_Sandwich_port1285,parabank,Port Sandwich port1285.txt,,20171108,,,Parabank
 p_prakaaprak1243,Prakaa,prak1243,Prakaa,,Eurasia,,,Sino-Tibetan,Prakaa_prak1243,parabank,Prakaa prak1243.txt,,20161201,,,Parabank
 p_protooceanicocea1241,Oceanic,ocea1241,Oceanic,,,,,Austronesian,Proto-Oceanic_ocea1241,parabank,Proto-Oceanic ocea1241.txt,,,,http://press-files.anu.edu.au/downloads/press/p69411/mobile/ch03s02.html,Parabank
+p_protosogeramsoge1235,Sogeram,soge1235,Sogeram,,,,,Nuclear Trans New Guinea,Proto_Sogeram_soge1235,parabank,Proto_Sogeram_soge1235.txt,,,,,Parabank
 p_pukapukapuka1242,Pukapuka,puka1242,Pukapuka,pkp,Papunesia,-10.91,-165.83,Austronesian,Pukapuka_puka1242,parabank,Pukapuka puka1242.txt,,,,,Parabank
 p_puluwatesepuluwatpulu1242,Puluwatese,pulu1242,Puluwatese,puw,Papunesia,7.35695,149.2005,Austronesian,Puluwatese_(Puluwat)_pulu1242,parabank,Puluwatese (Puluwat) pulu1242.txt,,20170401,,,Parabank
 p_raderhaderade1240,Rade,rade1240,Rade,rad,Eurasia,12.979,108.41,Austronesian,Rade_(Rhade)_rade1240,parabank,Rade (Rhade) rade1240.txt,,20170530,,,Parabank
@@ -470,8 +483,6 @@ p_thaothao1240,Thao,thao1240,Thao,ssf,Papunesia,23.8333,120.93,Austronesian,Thao
 p_thayorekuukthaayorrethay1249,Thayore,thay1249,Thayore,thd,Australia,-14.8159,142.034,Pama-Nyungan,Thayore_(Kuuk_Thaayorre)_thay1249,parabank,Thayore (Kuuk Thaayorre) thay1249.txt,,20171211,,,Parabank
 p_tialetial1239,Tiale,tial1239,Tiale,mnl,Papunesia,-15.2334,166.842,Austronesian,Tiale_tial1239,parabank,Tiale tial1239.txt,,20161130,,,Parabank
 p_tialotominitomi1243,Tomini,tomi1243,Tomini,txm,Papunesia,0.42569,120.89,Austronesian,Tialo_(Tomini)_tomi1243,parabank,Tialo (Tomini) tomi1243.txt,,20161207,,,Parabank
-p_tidoreversion1tido1248,Tidore,tido1248,Tidore,tvo,Papunesia,0.02461,127.746,,Tidore_(version_1)_tido1248,parabank,Tidore (version 1) tido1248.txt,,20170612,Data incomplete and source word list requires interpretation,,Parabank
-p_tidoreversion2tido1248a,Tidore,tido1248,Tidore,tvo,Papunesia,0.02461,127.746,,Tidore_(version_2)_tido1248a,parabank,Tidore (version 2) tido1248a.txt,,,,,Parabank
 p_tigaktiga1245,Tigak,tiga1245,Tigak,tgc,Papunesia,-2.70951,150.893,Austronesian,Tigak_tiga1245,parabank,Tigak tiga1245.txt,,20170401,Kinship nouns al­ways have a possessive suffix.,,Parabank
 p_tikopiatiko1237a,Tikopia,tiko1237,Tikopia,tkp,Papunesia,-12.2766,168.822,Austronesian,Tikopia_tiko1237a,parabank,Tikopia tiko1237.txt,,,,,Parabank
 p_tiraxmaemaee1241,Tirax,maee1241,Tirax,mme,Papunesia,-15.9914,167.288,Austronesian,Tirax_(Mae)_maee1241,parabank,Tirax (Mae) maee1241.txt,,20180117,,,Parabank
@@ -542,6 +553,7 @@ p_yadhaykenuyadh1237,Yadhaykenu,yadh1237,Yadhaykenu,,Australia,-11.314,142.725,P
 p_yakanyaka1277,Yakan,yaka1277,Yakan,yka,Papunesia,6.531023,122.021729,Austronesian,Yakan_yaka1277,parabank,Yakan yaka1277.txt,,2017025,,,Parabank
 p_yalarnngayala1262a,Yalarnnga,yala1262,Yalarnnga,ylr,Australia,-21.731,139.511,Pama-Nyungan,Yalarnnga_yala1262a,parabank,Yalarnnga yala1262.txt,,20161125,,,Parabank
 p_yandruwandhayand1253a,Yandruwandha,yand1253,Yandruwandha,ynd,Australia,-28.4744,140.583,Pama-Nyungan,Yandruwandha_yand1253a,parabank,Yandruwandha yand1253.txt,,20161201,,,Parabank
+p_yeleyelidnyeyele1255,Yele (Yélî Dnye),yele1255,Yele,yle,Papunesia,-11.3796,154.127,,Yele_(Yélî_Dnye)_yele1255,parabank,Yele (Yélî Dnye) yele1255.txt,,20170306,,http://www.jstor.org/stable/25132364,Parabank
 p_yelmekyelm1242,Yelmek,yelm1242,Southern Yelmek,jel,Papunesia,-7.4453,139.096,,Yelmek_yelm1242,parabank,Yelmek yelm1242.txt,,,,,Parabank
 p_yidinyyidi1250a,Yidiñ,yidi1250,Yidiñ,yii,Australia,-17.1332,145.876,Pama-Nyungan,Yidiny_yidi1250a,parabank,Yidiny yidi1250.txt,,20171206,,,Parabank
 p_yiryorontyiry1245,Yir-Yoront,yiry1245,Yir-Yoront,yiy,Australia,-15.1117,141.767,Pama-Nyungan,Yir-Yoront_yiry1245,parabank,Yir-Yoront yiry1245.txt,,20171211,,,Parabank
@@ -561,6 +573,7 @@ p_xawia1234,Awiakay,awia1234,Awiakay-Karimba,,Papunesia,,,Arafundi,Awiakay_awia1
 p_baruyabaru1267,Baruya,baru1267,Baruya,,Papunesia,-6.89261,145.818,Angan,Baruya_baru1267,parabank,,,,,,
 p_berikberi1254,Berik,beri1254,Berik,,Papunesia,-2.26904,138.866,Tor-Orya,Berik_beri1254,parabank,,,,,,
 p_biluabilu1245,Bilua,bilu1245,Bilua,,Papunesia,-7.92388,156.663,Bilua,Bilua_bilu1245,parabank,,,,,,
+p_tereitere1278,Terei,tere1278,Terei,,Papunesia,-6.70051,155.745,South Bougainville,Buin_tere1278,parabank,,,,,,
 p_dadibidadi1250,Dadibi,dadi1250,Dadibi,,Papunesia,-6.65765,144.511,Teberan,Daribi_dadi1250,parabank,,,,,,
 p_doutaidout1240,Doutai,dout1240,Doutai,,Papunesia,-3.24832,138.22,Lakes Plain,Doutai_dout1240,parabank,,,,,,
 p_eastkewaeast2516,East Kewa,east2516,East Kewa,,Papunesia,-6.32989,143.931,Nuclear Trans New Guinea,East_Kave_east2516,parabank,,,,,,
@@ -577,6 +590,8 @@ p_hewahewa1241,Hewa,hewa1241,Hewa,,Papunesia,-5.03635,142.551,Sepik,Hewa_hewa124
 p_hulihuli1244,Huli,huli1244,Huli,,Papunesia,-5.97212,142.963,Nuclear Trans New Guinea,Huli_huli1244,parabank,,,,,,
 p_isakakris1246,I'saka,kris1246,I'saka,,Papunesia,-2.80084,141.303,Sko,I'saka_(Krisa)_kris1246,parabank,,,,,,
 p_iauiauu1242,Iau,iauu1242,Iau,,Papunesia,-3.14537,137.69,Lakes Plain,Iau_iauu1242,parabank,,,,,,
+p_iditaemeidii1243,Idi-Taeme,idii1243,Idi-Taeme,,Papunesia,-8.75976,142.301,Pahoturi,Idi_idii1243,parabank,,,,,,
+p_suabosuab1238,Suabo,suab1238,Suabo,,Papunesia,-2.07971,132.157,Inanwatan,Inanwatan_(Suabo)_suab1238,parabank,,,,,,
 p_isirawaisir1237,Isirawa,isir1237,Isirawa,,Papunesia,-1.88775,138.595,Greater Kwerba,Isirawa_isir1237,parabank,,,,,,
 p_iwamiwam1256,Iwam,iwam1256,Iwam,,Papunesia,-4.27346,141.817,Sepik,Iwam_iwam1256,parabank,,,,,,
 p_kamanokama1370,Kamano,kama1370,Kamano,,Papunesia,-6.25829,145.728,Nuclear Trans New Guinea,Kamano_kama1370,parabank,,,,,,
@@ -586,11 +601,14 @@ p_kemtuikkemt1242,Kemtuik,kemt1242,Kemtuik,,Papunesia,-2.64894,140.372,Nimborani
 p_ketengbankete1254,Ketengban,kete1254,Ketengban,,Papunesia,-4.50417,140.443,Nuclear Trans New Guinea,Ketengban_kete1254,parabank,,,,,,
 p_kilmerikilm1241,Kilmeri,kilm1241,Kilmeri,,Papunesia,-2.88607,141.191,Border,Kilmeri_kilm1241,parabank,,,,,,
 p_kimaamakima1246,Kimaama,kima1246,Kimaama,,Papunesia,-8.01899,138.355,Kolopom,Kimaama_kima1246,parabank,,,,,,
+p_kuikuii1253,Kui (Indonesia),kuii1253,Kui (Indonesia),,Papunesia,-8.38204,124.791,Timor-Alor-Pantar,Kiraman_kuii1253,parabank,,,,,,
+p_southernkiwaisout2949,Southern Kiwai,sout2949,Southern Kiwai,,Papunesia,-8.64889,143.244,Kiwaian,Kiwaian_sout2949,parabank,,,,,,
 p_klonkelo1247,Klon,kelo1247,Klon,,Papunesia,-8.40688,124.429,Timor-Alor-Pantar,Klon_kelo1247,parabank,,,,,,
 p_grasskoiarigras1249,Grass Koiari,gras1249,Grass Koiari,,Papunesia,-9.51218,147.437,Koiarian,Koiari_gras1249,parabank,,,,,,
 p_kombaikomb1274,Kombai,komb1274,Kombai,,Papunesia,-5.54543,139.902,Nuclear Trans New Guinea,Kombai_komb1274,parabank,,,,,,
+p_komnzowara1294,Anta-Komnzo-Wára-Wérè-Kémä,wara1294,Anta-Komnzo-Wára-Wérè-Kémä,,Papunesia,-8.64917,141.52,Morehead-Wasur,Komnzo_wara1294,parabank,,,,,,
 p_westerndaniwest2594,Western Dani,west2594,Western Dani,,Papunesia,-3.77127,138.217,Nuclear Trans New Guinea,Konda_(Western_Dani)_west2594,parabank,,,,,,
-p_korafekora1295,Korafe,kora1295,Korafe,,Papunesia,,,Nuclear Trans New Guinea,Korafe_kora1295,parabank,,,,,,
+p_korafekora1295,Korafe,kora1295,Korafe,,Papunesia,-9.07,149.267,Nuclear Trans New Guinea,Korafe_kora1295,parabank,,,,,,
 p_korowaikoro1312,Korowai,koro1312,Korowai,,Papunesia,-5.26952,140.047,Nuclear Trans New Guinea,Korowai_koro1312,parabank,,,,,,
 p_kumankuma1280,Kuman,kuma1280,Kuman,,Papunesia,-5.90586,144.977,Nuclear Trans New Guinea,Kuman_kuma1280,parabank,,,,,,
 p_kunimaipakuni1267,Kunimaipa,kuni1267,Kunimaipa,,Papunesia,-8.09371,146.908,Goilalan,Kunimaipa_kuni1267,parabank,,,,,,
@@ -598,8 +616,9 @@ p_boungboun1245,Bo-Ung,boun1245,Bo-Ung,,Papunesia,-5.8626,144.086,Nuclear Trans 
 p_lolodalabalolo1264,Loloda-Laba,lolo1264,Loloda-Laba,,Papunesia,1.95461,127.772,North Halmahera,Loloda-Laba_(Loda)_lolo1264,parabank,,,,,,
 p_modolemodo1249,Modole,modo1249,Modole,,Papunesia,1.40199,127.752,North Halmahera,Madole_modo1249,parabank,,,,,,
 p_mairasinucl1594,Mairasi,nucl1594,Mairasi,,Papunesia,-3.4511,134.071,Mairasic,Mairasi_nucl1594,parabank,,,,,,
-p_xmala1294,Mala,mala1294,,,,,,,Mala_mala1294,parabank,,,,,,
+p_xmala1494,Mala,mala1494,Mala (Papua New Guinea),,Papunesia,,,,Mala_mala1494,parabank,,,,,,
 p_maybratkaronmaib1239,Maybrat-Karon,maib1239,Maybrat-Karon,,Papunesia,-1.3679,132.591,Maybrat-Karon,Maybrat_maib1239,parabank,,,,,,
+p_mblaferanmoblaf1238,Mblafe-Ránmo,blaf1238,Mblafe-Ránmo,,Papunesia,-8.56161,141.226,Morehead-Wasur,Mblafe_blaf1238,parabank,,,,,,
 p_mianimian1254,Miani,mian1254,Miani,,Papunesia,-4.42116,145.276,Nuclear Trans New Guinea,Miani_mian1254,parabank,,,,,,
 p_momufasfass1245,Momu-Fas,fass1245,Momu-Fas,,Papunesia,-3.10868,141.64,Baibai-Fas,Momu-Fas_fass1245,parabank,,,,,,
 p_monimoni1261,Moni,moni1261,Moni,,Papunesia,-3.72962,136.886,Nuclear Trans New Guinea,Moni_moni1261,parabank,,,,,,
@@ -619,7 +638,7 @@ p_siwaisiwa1245,Siwai,siwa1245,Siwai,,Papunesia,-6.6429,155.452,South Bougainvil
 p_tablatabl1243,Tabla,tabl1243,Tabla,,Papunesia,-2.45368,140.396,Sentanic,Tabla_tabl1243,parabank,,,,,,
 p_taiaptaia1239,Taiap,taia1239,Taiap,,Papunesia,-4.05047,144.506,Taiap,Taiap_taia1239,parabank,,,,,,
 p_telefoltele1256,Telefol,tele1256,Telefol,,Papunesia,-5.07444,141.731,Nuclear Trans New Guinea,Telefol_tele1256,parabank,,,,,,
-p_xtido1249,Tidore,tido1249,,,,,,,Tidore_tido1249,parabank,,,,,,
+p_xtido1248,Tidore,tido1248,Tidore,,Papunesia,,,,Tidore_tido1248,parabank,,,,,,
 p_touotouo1238,Touo,touo1238,Touo,,Papunesia,-8.58405,157.296,Touo,Touo_touo1238,parabank,,,,,,
 p_umbuunguumbu1258,Umbu-Ungu,umbu1258,Umbu-Ungu,,Papunesia,-5.9513,143.97,Nuclear Trans New Guinea,Umbu-Ungu_umbu1258,parabank,,,,,,
 p_usarufausar1243,Usarufa,usar1243,Usarufa,,Papunesia,-6.38898,145.633,Nuclear Trans New Guinea,Usurufa_usar1243,parabank,,,,,,

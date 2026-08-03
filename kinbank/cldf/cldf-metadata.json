@@ -2,8 +2,6 @@
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:isVersionOf": null,
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "kinbank/varikin",
     "prov:wasDerivedFrom": [
@@ -33,7 +31,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.12"
+            "dc:description": "3.13.5"
         },
         {
             "dc:title": "python-packages",
@@ -46,7 +44,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 79955,
+            "dc:extent": 79585,
             "tableSchema": {
                 "columns": [
                     {
@@ -149,7 +147,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 630,
+            "dc:description": "CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, Label: Optional[str] = None, Project: Optional[str] = None, ProjectFile: Optional[str] = None, ProjectName: Optional[str] = None, EntryDate: Optional[str] = None, Comment: Optional[str] = None, Link: Optional[str] = None, Set: Optional[str] = None)",
+            "dc:extent": 649,
             "tableSchema": {
                 "columns": [
                     {
@@ -247,7 +246,8 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 238,
+            "dc:description": "CustomConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Parameter: Optional[str] = None, Group: Optional[str] = None, Dataset: Optional[str] = None)",
+            "dc:extent": 944,
             "tableSchema": {
                 "columns": [
                     {
